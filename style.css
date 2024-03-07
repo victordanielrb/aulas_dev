@@ -1,0 +1,56 @@
+body{
+top: 0px;
+margin: 0px;
+
+
+}
+
+figure{
+    
+text-align: center;
+
+
+}
+
+#nossaf{
+text-align: justify;
+justify-content: center;
+margin-left: 180px;
+margin-right: 180px;
+
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(228,228,228,1) 100%);
+
+}
+.navimg{
+
+height: 45px;
+margin: 10px;
+
+
+}
+.navtxt{
+float: right;
+margin-right: 30px;
+margin-top: 15px;
+
+}
+.navrotulo{
+text-decoration: none;
+color: gray;
+font-size: large;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-right: 10px;
+margin-left: 10px;
+
+}
+.navrotulo:hover{
+padding: 8px;
+border-radius: 12px;
+background-color: gray;
+color: white;
+}
